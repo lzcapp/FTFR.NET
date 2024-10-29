@@ -1,0 +1,3 @@
+[submodule "MiHome.NET"]
+	path = MiHome.NET
+	url = https://github.com/TripleView/MiHome.Net
