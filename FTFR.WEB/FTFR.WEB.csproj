@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MiHome.NET\MiHome.Net\MiHome.Net.csproj" />
+  </ItemGroup>
+
 </Project>

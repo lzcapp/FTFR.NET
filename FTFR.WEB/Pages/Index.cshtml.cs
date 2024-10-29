@@ -1,5 +1,9 @@
+using System.Reflection.Emit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using MiHome.Net.Dto;
+using MiHome.Net.Middleware;
+using MiHome.Net.Service;
 
 namespace FTFR.WEB.Pages {
     public class IndexModel : PageModel {
@@ -9,8 +13,6 @@ namespace FTFR.WEB.Pages {
             _logger = logger;
         }
 
-        public void OnGet() {
-
-        }
+        public void OnGet() { }
     }
 }
