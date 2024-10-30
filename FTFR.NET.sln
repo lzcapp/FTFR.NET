@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiHome.Net", "MiHome.NET\MiHome.Net\MiHome.Net.csproj", "{DEEC4B36-6CD1-4DD9-80EF-AC63B7C05A08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTFR.WEB", "FTFR.WEB\FTFR.WEB.csproj", "{F713E6C6-5389-42CC-837E-9D7AF714C063}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTFR.Cmd", "FTFR.Cmd\FTFR.Cmd.csproj", "{274EA666-C3AA-4597-805A-41EAA3711641}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DEEC4B36-6CD1-4DD9-80EF-AC63B7C05A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEEC4B36-6CD1-4DD9-80EF-AC63B7C05A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEEC4B36-6CD1-4DD9-80EF-AC63B7C05A08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F713E6C6-5389-42CC-837E-9D7AF714C063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F713E6C6-5389-42CC-837E-9D7AF714C063}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F713E6C6-5389-42CC-837E-9D7AF714C063}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F713E6C6-5389-42CC-837E-9D7AF714C063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274EA666-C3AA-4597-805A-41EAA3711641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274EA666-C3AA-4597-805A-41EAA3711641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274EA666-C3AA-4597-805A-41EAA3711641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274EA666-C3AA-4597-805A-41EAA3711641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
