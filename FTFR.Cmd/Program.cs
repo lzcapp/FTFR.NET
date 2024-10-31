@@ -87,6 +87,7 @@ namespace FTFR.Cmd {
                     Console.WriteLine("- 插座" + i + " (" + (Outlet)i + ") " + "：\t" + status);
                 }
             }
+            Console.ReadKey();
         }
 
         private static string StatusBooleanToString(bool status) {
